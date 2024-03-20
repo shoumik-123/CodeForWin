@@ -1,0 +1,9 @@
+# ninja log v5
+0	635	1710959931170828604	CMakeFiles/check_alphabets.dir/main.cpp.o	ca48518a1191c52e
+636	797	1710959931330832440	check_alphabets	2af5b7cd29c0d525
+1	654	1710959982460054190	CMakeFiles/check_alphabets.dir/main.cpp.o	ca48518a1191c52e
+655	839	1710959982644058573	check_alphabets	2af5b7cd29c0d525
+1	609	1710960033125257585	CMakeFiles/check_alphabets.dir/main.cpp.o	ca48518a1191c52e
+609	793	1710960033309261944	check_alphabets	2af5b7cd29c0d525
+1	729	1710960060474355052	CMakeFiles/check_alphabets.dir/main.cpp.o	ca48518a1191c52e
+729	910	1710960060650367375	check_alphabets	2af5b7cd29c0d525

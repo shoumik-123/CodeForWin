@@ -1,0 +1,3 @@
+/media/shoumik/Others/Programming/Codeforwin/check_alphabets/cmake-build-debug/CMakeFiles/check_alphabets.dir
+/media/shoumik/Others/Programming/Codeforwin/check_alphabets/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/shoumik/Others/Programming/Codeforwin/check_alphabets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

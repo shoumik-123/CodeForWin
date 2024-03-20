@@ -1,0 +1,3 @@
+/media/shoumik/Others/Programming/Codeforwin/vowel_or_consonant/cmake-build-debug/CMakeFiles/vowel_or_consonant.dir
+/media/shoumik/Others/Programming/Codeforwin/vowel_or_consonant/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/shoumik/Others/Programming/Codeforwin/vowel_or_consonant/cmake-build-debug/CMakeFiles/rebuild_cache.dir

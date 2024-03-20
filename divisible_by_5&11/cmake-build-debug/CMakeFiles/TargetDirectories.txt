@@ -1,0 +1,3 @@
+/media/shoumik/Others/Programming/Codeforwin/divisible_by_5&11/cmake-build-debug/CMakeFiles/divisible_by_5_11.dir
+/media/shoumik/Others/Programming/Codeforwin/divisible_by_5&11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/shoumik/Others/Programming/Codeforwin/divisible_by_5&11/cmake-build-debug/CMakeFiles/rebuild_cache.dir

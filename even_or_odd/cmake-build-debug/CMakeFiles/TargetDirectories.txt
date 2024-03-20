@@ -1,0 +1,3 @@
+/media/shoumik/Others/Programming/Codeforwin/even_or_odd/cmake-build-debug/CMakeFiles/even_or_odd.dir
+/media/shoumik/Others/Programming/Codeforwin/even_or_odd/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/shoumik/Others/Programming/Codeforwin/even_or_odd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
